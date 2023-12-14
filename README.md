@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Quang Dat Duong</h1>
+
 # 💫 About Me:
 🔭 I’m a student at University of Technology<br>🌱 I’m currently learning Software/AI engineering<br>💬 Ask me about anything<br>⚡ It's not a bug, it's a feature
 
